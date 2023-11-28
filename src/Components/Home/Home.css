@@ -161,33 +161,6 @@
     font-family: 'Open Sans', sans-serif;
 }
 
-.scroll-down {
-    transform: rotate(90deg);
-    position: absolute;
-    right: 0;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 10px;
-    cursor: pointer;
-}
-
-.scroll-down hr {
-    background-color: blue;
-    width: 20px;
-}
-
-.scroll-down h5 {
-    font-size: 18px;
-    text-transform: capitalize;
-    font-weight: 100;
-}
-
-.scroll-down .scroll {
-    transform: rotate(-90deg);
-    font-size: 20px;
-}
-
 @media (max-width: 820px) {
     .home-container {
         position: relative;
