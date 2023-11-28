@@ -108,7 +108,7 @@ const t = function () {
 
     const s = setInterval(() => {
         i.clearRect(0, 0, a.width, a.height);
-        let t; // Declarar t aquí con let
+        let t; 
         for (let a = 0; a < d.nb; a++) {
             d.array.push(new o());
             t = d.array[a];
