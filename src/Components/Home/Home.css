@@ -185,18 +185,6 @@
         user-select: none;
     }
 
-    .home-container .logo .hover-show {
-        position: absolute;
-        height: 220px;
-        width: 220px;
-        border-radius: 50%;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        z-index: 5;
-        cursor: pointer;
-    }
-
     .home-container .logo .circle {
         position: absolute;
         height: 90px;
@@ -270,17 +258,6 @@
         user-select: none;
     }
 
-    .home-container .logo .hover-show {
-        position: absolute;
-        height: 220px;
-        width: 220px;
-        border-radius: 50%;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        z-index: 5;
-        cursor: pointer;
-    }
 
     .home-container .logo .circle {
         position: absolute;
@@ -364,18 +341,6 @@
         align-items: center;
         border-radius: 50%;
         user-select: none;
-    }
-
-    .home-container .logo .hover-show {
-        position: absolute;
-        height: 180px;
-        width: 180px;
-        border-radius: 50%;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        z-index: 5;
-        cursor: pointer;
     }
 
     .home-container .logo .circle {
